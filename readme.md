@@ -18,17 +18,18 @@ CSS
 
 .
 ├── index.html
-├── style.css
+├── style.css (Assumed)
 └── Images/
-├── 2.avif
-├── img2.avif
-├── img3.avif
-├── img4.avif
-├── img5.avif
-├── img6.avif
-├── img7.avif
-├── mg8.avif
-└── bottom.avif
+    ├── 2.avif
+    ├── img2.avif
+    ├── img3.avif
+    ├── img4.avif
+    ├── img5.avif
+    ├── img6.avif
+    ├── img7.avif
+    ├── mg8.avif
+    ├── bottom.avif
+    └── screenshot.png (Your actual screenshot file should be named this)
 
 Setup and Usage
 To view this project locally:
