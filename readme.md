@@ -11,22 +11,24 @@ Hero Section: A prominent area with a headline and a "Book Now" button (for disp
 Popular Movies Section: Displays a collection of movie cards with posters and titles.
 
 Technologies Used
-HTML5
+HTML
+CSS
 
-Project Structure
-    .
-    ├── index.html
-    ├── style.css (Assumed)
-    └── Images/
-        ├── 2.avif
-        ├── img2.avif
-        ├── img3.avif
-        ├── img4.avif
-        ├── img5.avif
-        ├── img6.avif
-        ├── img7.avif
-        ├── mg8.avif
-        └── bottom.avif
+## Project Structure
+
+.
+├── index.html
+├── style.css
+└── Images/
+├── 2.avif
+├── img2.avif
+├── img3.avif
+├── img4.avif
+├── img5.avif
+├── img6.avif
+├── img7.avif
+├── mg8.avif
+└── bottom.avif
 
 Setup and Usage
 To view this project locally:
