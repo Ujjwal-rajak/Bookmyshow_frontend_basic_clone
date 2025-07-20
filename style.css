@@ -1,0 +1,143 @@
+/* Global*/
+*{
+    margin: 0;
+    padding: 0;
+}
+/* Navigation */
+
+.navbar{
+    background-color: rgb(215, 46, 46);
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    padding: 1.8rem;
+}
+.name{
+    color: white;
+}
+
+.cat{
+    margin: 5px;
+}
+.category{
+    color: white;
+    display: flex;
+    font-size: 1.6rem;
+    cursor: pointer;
+}
+
+.search{
+    background-color:rgb(185, 177, 177);
+    display: flex;
+    justify-content: center;
+    padding: 1.8rem;
+}
+.find{
+    height: 30px;
+    width: 400px;
+    max-width: 60%;
+    overflow: hidden;
+    border-radius: 10px;
+    padding: 0.2rem;
+}
+.sbutton{
+    width: 100px;
+    border-radius: 10px;
+    background-color: rgb(215, 46, 46);
+    color: white;
+    margin-left: 10px;
+    max-width: 20%;
+    overflow-wrap:break-word;
+}
+/* Navigation */
+
+/* Section Book Now */
+.hero{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 3rem 3rem;
+    background-image: url(../BookmyShow/Images/1.jpg);
+}
+.hero>h2{
+    background-color: black;
+    color: white;
+    font-size: 2rem;
+}
+.hero>button{
+    background-color: rgb(215,46,46);
+    color: white;
+    margin-top: 30px;
+    width: 7rem;
+    height: 3rem;
+    border-radius: 10px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.popular{
+    display: flex;
+    justify-content: center;
+    font-size: 45px;
+    font-weight: bold;
+}
+/* Section Book Now */
+
+/* Cards */
+.poster{
+    height: 25rem;
+}
+.cards
+{
+    display: flex;
+    padding: 0.5rem;
+    overflow-x: scroll;
+}
+.card{
+    border: 10px solid rgb(208,199,199);
+    background-color: rgb(208,199,199);
+    border-radius: 8px;
+    margin: 10px;
+}
+.title{
+    text-align: center;
+}
+/* Cards */
+
+/* Footer */
+.reels{
+    margin-top: 2rem;
+    text-align: center;
+}
+
+.reels>img{
+    max-width: 80%;
+    border-radius: 10px;
+}
+/* Footer */
+
+/* Responsive */
+@media(max-width:530px){
+    .navbar{
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+@media(max-width:450px)
+{
+    .category{
+        flex-direction: column;
+        padding: 2rem;
+    }
+    .cards{
+        flex-direction: column;
+        gap: 0.5rem;
+        align-items: center;
+    }
+    .search{
+        flex-direction: column;
+        align-items: center;
+        gap: 1rem;
+    }
+}
