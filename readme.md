@@ -1,4 +1,4 @@
-BookMyShow Clone (Landing Page)
+BookMyShow Clone – Landing Page
 This project is a simple static landing page inspired by BookMyShow, designed to visually represent a movie booking platform's homepage. It showcases popular movies and provides a basic layout.
 
 Features
@@ -15,23 +15,7 @@ HTML
 CSS
 
 ## Project Structure
-
-BookMyShow-Clone/
-│
-├── index.html               # Main HTML file
-├── style.css                # CSS file for styling
-│
-└── Images/                  # Folder containing all images
-    ├── 2.avif
-    ├── img2.avif
-    ├── img3.avif
-    ├── img4.avif
-    ├── img5.avif
-    ├── img6.avif
-    ├── img7.avif
-    ├── mg8.avif
-    ├── bottom.avif
-    └── screenshot.png       # Actual screenshot (rename yours to this)hould be named this)
+<pre> BookMyShow-Clone/ ├── index.html ├── style.css └── Images/ ├── 2.avif ├── img2.avif ├── img3.avif ├── img4.avif ├── img5.avif ├── img6.avif ├── img7.avif ├── mg8.avif ├── bottom.avif └── screenshot.png </pre>
 
 Setup and Usage
 To view this project locally:
