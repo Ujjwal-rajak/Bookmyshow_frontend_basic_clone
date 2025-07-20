@@ -38,8 +38,7 @@ Ensure you have index.html, style.css (if it exists), and the Images folder in t
 Open index.html in your web browser.
 
 Screenshot
-![screenshot of project] (./Images/Screenshot 2025-07-20 182014.png)
-(./Images/Screenshot 2025-07-20 182024.png)
+![screenshot of project](./Images/Screenshot 2025-07-20 182014.png)(./Images/Screenshot 2025-07-20 182024.png)
 
 
 Customization
