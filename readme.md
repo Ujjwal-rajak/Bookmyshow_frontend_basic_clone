@@ -16,19 +16,19 @@ HTML5
 CSS3 (assuming style.css contains the styling)
 
 Project Structure
-.
-├── index.html
-├── style.css (Assumed)
-└── Images/
-    ├── 2.avif
-    ├── img2.avif
-    ├── img3.avif
-    ├── img4.avif
-    ├── img5.avif
-    ├── img6.avif
-    ├── img7.avif
-    ├── mg8.avif
-    └── bottom.avif
+    .
+    ├── index.html
+    ├── style.css (Assumed)
+    └── Images/
+        ├── 2.avif
+        ├── img2.avif
+        ├── img3.avif
+        ├── img4.avif
+        ├── img5.avif
+        ├── img6.avif
+        ├── img7.avif
+        ├── mg8.avif
+        └── bottom.avif
 
 Setup and Usage
 To view this project locally:
