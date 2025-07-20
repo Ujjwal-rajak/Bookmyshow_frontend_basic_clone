@@ -16,10 +16,12 @@ CSS
 
 ## Project Structure
 
-.
-├── index.html
-├── style.css (Assumed)
-└── Images/
+BookMyShow-Clone/
+│
+├── index.html               # Main HTML file
+├── style.css                # CSS file for styling
+│
+└── Images/                  # Folder containing all images
     ├── 2.avif
     ├── img2.avif
     ├── img3.avif
@@ -29,8 +31,7 @@ CSS
     ├── img7.avif
     ├── mg8.avif
     ├── bottom.avif
-    └── screenshot.png (Your actual screenshot file should be named this)
-##finished
+    └── screenshot.png       # Actual screenshot (rename yours to this)hould be named this)
 
 Setup and Usage
 To view this project locally:
