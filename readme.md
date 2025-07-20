@@ -13,8 +13,6 @@ Popular Movies Section: Displays a collection of movie cards with posters and ti
 Technologies Used
 HTML5
 
-CSS3 (assuming style.css contains the styling)
-
 Project Structure
     .
     ├── index.html
