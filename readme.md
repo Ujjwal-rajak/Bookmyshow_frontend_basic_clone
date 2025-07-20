@@ -30,6 +30,7 @@ CSS
     ├── mg8.avif
     ├── bottom.avif
     └── screenshot.png (Your actual screenshot file should be named this)
+##finished
 
 Setup and Usage
 To view this project locally:
